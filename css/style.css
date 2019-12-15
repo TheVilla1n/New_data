@@ -1,5 +1,93 @@
 
+
 #header {
    
+outline: 1px solid #000;
+}
+
+
+.logo {
+
+    margin-top: 64px;
+    margin-left: 56px;
+    height: 100px;
+    width: 300px;
+    background: url(../images/Logo.png) no-repeat;
+    outline: 1px solid #000;
+    background-size: cover;
+    
+}
+.text_event {
+    
+    height: 67px;
+    width: 590px;
+    color: #046995;
+    outline: 1px solid #000;
+    margin-top: -94px;
+    margin-left: 830px;
+    font-size: 53pt; 
+    font-weight: bold;
+    font-family: Verdana;
+    
+}
+
+.business_event {
+
+    height: 57px;
+    width: 590px;
+    margin-top: 15px;
+    margin-left: 837px;
+    color: #046995;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40pt; 
+    outline: 1px solid #000;
+    font-weight: 100;
+    
+    letter-spacing: 6.5px;
+}
+
+#content {
+    margin-top: 260px;
+    margin-left: 710px;
+    /*outline: 1px solid #000;*/
+    height: 100px;
+    width: 713px;
+}
+
+p.text_1 {
+    line-height: 1.5em;
+    margin-bottom: 0.2em;
+   }
+
+.text_content {
+    line-height: 1.6;
+    border-left: 4px solid  #ffd700; 
+    margin-left: 15px; 
+    padding-left: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
+    color: #046995;
+   /* outline: 1px solid #000;*/
+    font-size: 9,85pt; 
+    font-weight: 500;
+}
+
+#footer{
+    position: absolute;
+    margin-top: 175px;
+    
+    outline: 1px solid #000;
 
 }
+
+.social_icon  {
+width: 550px;
+padding-left: 70px;
+}
+
+.social_icon img  {
+    border: 2px solid #55c5e9; 
+    
+
+    margin-right: 40px; 
+    margin-bottom: 10px; 
+   }
