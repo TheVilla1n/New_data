@@ -73,8 +73,10 @@ p.text_1 {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; 
     color: #046995;
    /* outline: 1px solid #000;*/
-    font-size: 9,85pt; 
+   font-size: smaller; 
     font-weight: 500;
+    
+  
 }
 
 #footer{
@@ -155,7 +157,7 @@ padding-left: 70px;
 .hour {
 width: 90px;
 margin-left: 470px;
-    margin-top: -36px;
+    margin-top: -32px;
     color: #7b7b7b;
     font-style: oblique;
     font-weight: bolder;
